@@ -1,0 +1,1375 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[18:22:10] 
+[18:22:10] Server Plugins
+[18:22:10] --------------
+[18:22:10]  Loading plugin: sscanf.so
+[18:22:10] 
+
+[18:22:10]  ===============================
+
+[18:22:10]       sscanf plugin loaded.     
+
+[18:22:10]          Version:  2.8.1        
+
+[18:22:10]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:22:10]  ===============================
+
+[18:22:10]   Loaded.
+[18:22:10]  Loading plugin: mysql_debian.so
+[18:22:10] 
+
+  > MySQL plugin R6 successfully loaded.
+
+[18:22:10]   Loaded.
+[18:22:10]  Loading plugin: streamer.so
+[18:22:10] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[18:22:10]   Loaded.
+[18:22:10]  Loading plugin: audio.so
+[18:22:10] 
+
+*** Audio Plugin v0.5 R2 by Incognito loaded ***
+
+[18:22:10]   Loaded.
+[18:22:10]  Loading plugin: FCNPC.so
+[18:22:10] 
+[18:22:10] -------------------------------------------------
+[18:22:10]      FCNPC - Fully Controllable NPC v0.1 B12
+[18:22:10] 
+[18:22:10] - Author: OrMisicL
+[18:22:10] - Build:  Feb 23 2014 at 15:36:09
+[18:22:10] -------------------------------------------------
+[18:22:10] 
+[18:22:10] Loading ...
+[18:22:10] SAMP Server version 0.3z (Linux) detected. Initializing ...
+[18:22:10] FCNPC Loaded.
+[18:22:10] 
+[18:22:10]   Loaded.
+[18:22:10]  Loading plugin: crashdetect.so
+[18:22:10]   CrashDetect v4.13.1 is OK.
+[18:22:10]   Loaded.
+[18:22:10]  Loaded 6 plugins.
+
+[18:22:10] 
+[18:22:10] Filterscripts
+[18:22:10] ---------------
+[18:22:10]   Loaded 0 filterscripts.
+
+[18:22:10]  
+[18:22:10]  
+[18:22:10]  
+[18:22:10]  ======================================= 
+[18:22:10]  |                                     | 
+[18:22:10]  |        YSI version 3.09.0684        | 
+[18:22:10]  |        By Alex "Y_Less" Cole        | 
+[18:22:10]  |                                     | 
+[18:22:10]  ======================================= 
+[18:22:10]  
+[18:22:10] *** Audio Plugin: Started TCP server on port 7788
+[18:22:10] ----------------------------------------------
+[18:22:10]      Po³¹czono z serwerem MySQL poprawnie     
+[18:22:10] ----------------------------------------------
+[18:22:10] [LOAD] Wczytano 3 pojazdy/ów z bazy danych.
+[18:22:10] sscanf warning: String buffer overflow.
+[18:22:10] sscanf warning: String buffer overflow.
+[18:22:10] sscanf warning: String buffer overflow.
+[18:22:10] sscanf warning: String buffer overflow.
+[18:22:10] [LOAD] Wczytano 4 grup z bazy danych.
+[18:22:10] [LOAD] Wczytano 0 przedmiot/ów z bazy danych.
+[18:22:10] [LOAD] Wczytano 3600 stref z bazy danych.
+[18:22:10] [LOAD] Wczytano 4 drzwi z bazy danych.
+[18:22:10] [LOAD] Wczytano 0 obiektów z bazy danych.
+[18:22:10] [LOAD] Wczytano 0 tekstur z bazy danych.
+[18:22:10] [LOAD] Wczytano 0 tekstur z bazy danych.
+[18:22:10] [LOAD] Wczytano 0 przyczepialnych z bazy danych.
+[18:22:10] [LOAD] Wczytano 0 czujnikow z bazy danych.
+[18:22:10] [LOAD] Wczytano 0 przystanków z bazy danych.
+[18:22:10] [LOAD] Wczytano 1 ustawieñ z bazy danych.
+[18:22:10] [LOAD] Wczytano 0 zwlok z bazy danych.
+[18:22:10] [LOAD] Wczytano 0 roslin z bazy danych.
+[18:22:10] ----------------------------------
+[18:22:10] |            iRolePlay           |
+[18:22:10] ----------------------------------
+[18:22:10] Number of vehicle models: 3
+[18:22:10]  
+[18:22:10]  ========================================== 
+[18:22:10]  |                                        | 
+[18:22:10]  |  A new version (v<html>
+  ) of YSI is  | 
+[18:22:10]  |            available from:             | 
+[18:22:10]  |                                        | 
+[18:22:10]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[18:22:10]  |                                        | 
+[18:22:10]  ========================================== 
+[18:22:10]  
+[18:22:33] Incoming connection: 89.65.99.197:65270
+[18:22:33] [join] Martin has joined the server (0:89.65.99.197)
+[18:22:52] [LOAD] Zaladowano pomyslnie grupy gracza Martin
+[18:22:52] [LOAD] Wczytano 0 opisów z bazy danych.
+[18:22:52] [LOAD] Zaladowano pomyslnie mieszkania gracza Martin
+[18:24:45] [part] Martin has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[18:24:58] 
+[18:24:58] Server Plugins
+[18:24:58] --------------
+[18:24:58]  Loading plugin: sscanf.so
+[18:24:58] 
+
+[18:24:58]  ===============================
+
+[18:24:58]       sscanf plugin loaded.     
+
+[18:24:58]          Version:  2.8.1        
+
+[18:24:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:24:58]  ===============================
+
+[18:24:58]   Loaded.
+[18:24:58]  Loading plugin: mysql_debian.so
+[18:24:58] 
+
+  > MySQL plugin R6 successfully loaded.
+
+[18:24:58]   Loaded.
+[18:24:58]  Loading plugin: streamer.so
+[18:24:58] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[18:24:58]   Loaded.
+[18:24:58]  Loading plugin: audio.so
+[18:24:58] 
+
+*** Audio Plugin v0.5 R2 by Incognito loaded ***
+
+[18:24:58]   Loaded.
+[18:24:58]  Loading plugin: FCNPC.so
+[18:24:58] 
+[18:24:58] -------------------------------------------------
+[18:24:58]      FCNPC - Fully Controllable NPC v0.1 B12
+[18:24:58] 
+[18:24:58] - Author: OrMisicL
+[18:24:58] - Build:  Feb 23 2014 at 15:36:09
+[18:24:58] -------------------------------------------------
+[18:24:58] 
+[18:24:58] Loading ...
+[18:24:58] SAMP Server version 0.3z (Linux) detected. Initializing ...
+[18:24:58] FCNPC Loaded.
+[18:24:58] 
+[18:24:58]   Loaded.
+[18:24:58]  Loading plugin: crashdetect.so
+[18:24:58]   CrashDetect v4.13.1 is OK.
+[18:24:58]   Loaded.
+[18:24:58]  Loaded 6 plugins.
+
+[18:24:58] 
+[18:24:58] Filterscripts
+[18:24:58] ---------------
+[18:24:58]   Loaded 0 filterscripts.
+
+[18:24:58] *** Audio Plugin: Error binding endpoint for acceptor: Address already in use
+[18:24:58]  
+[18:24:58]  
+[18:24:58]  
+[18:24:58]  ======================================= 
+[18:24:58]  |                                     | 
+[18:24:58]  |        YSI version 3.09.0684        | 
+[18:24:58]  |        By Alex "Y_Less" Cole        | 
+[18:24:58]  |                                     | 
+[18:24:58]  ======================================= 
+[18:24:58]  
+[18:24:58] ----------------------------------------------
+[18:24:58]      Po³¹czono z serwerem MySQL poprawnie     
+[18:24:58] ----------------------------------------------
+[18:24:58] [LOAD] Wczytano 3 pojazdy/ów z bazy danych.
+[18:24:58] sscanf warning: String buffer overflow.
+[18:24:58] sscanf warning: String buffer overflow.
+[18:24:58] sscanf warning: String buffer overflow.
+[18:24:58] sscanf warning: String buffer overflow.
+[18:24:58] [LOAD] Wczytano 4 grup z bazy danych.
+[18:24:58] [LOAD] Wczytano 0 przedmiot/ów z bazy danych.
+[18:24:58] [LOAD] Wczytano 3600 stref z bazy danych.
+[18:24:58] [LOAD] Wczytano 4 drzwi z bazy danych.
+[18:24:58] [LOAD] Wczytano 0 obiektów z bazy danych.
+[18:24:58] [LOAD] Wczytano 0 tekstur z bazy danych.
+[18:24:58] [LOAD] Wczytano 0 tekstur z bazy danych.
+[18:24:58] [LOAD] Wczytano 0 przyczepialnych z bazy danych.
+[18:24:58] [LOAD] Wczytano 0 czujnikow z bazy danych.
+[18:24:58] [LOAD] Wczytano 0 przystanków z bazy danych.
+[18:24:58] [LOAD] Wczytano 1 ustawieñ z bazy danych.
+[18:24:58] [LOAD] Wczytano 0 zwlok z bazy danych.
+[18:24:58] [LOAD] Wczytano 0 roslin z bazy danych.
+[18:24:58] ----------------------------------
+[18:24:58] |		Fort Carson RolePlay	|
+[18:24:58] ----------------------------------
+[18:24:58] Number of vehicle models: 3
+[18:24:58]  
+[18:24:58]  ========================================== 
+[18:24:58]  |                                        | 
+[18:24:58]  |  A new version (v<html>
+  ) of YSI is  | 
+[18:24:58]  |            available from:             | 
+[18:24:58]  |                                        | 
+[18:24:58]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[18:24:58]  |                                        | 
+[18:24:58]  ========================================== 
+[18:24:58]  
+[18:25:16] Incoming connection: 89.65.99.197:63414
+[18:25:16] [join] Martin has joined the server (0:89.65.99.197)
+[18:25:31] [LOAD] Zaladowano pomyslnie grupy gracza Martin
+[18:25:31] [LOAD] Wczytano 0 opisów z bazy danych.
+[18:25:31] [LOAD] Zaladowano pomyslnie mieszkania gracza Martin
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[18:28:33] 
+[18:28:33] Server Plugins
+[18:28:33] --------------
+[18:28:33]  Loading plugin: sscanf.so
+[18:28:33] 
+
+[18:28:33]  ===============================
+
+[18:28:33]       sscanf plugin loaded.     
+
+[18:28:33]          Version:  2.8.1        
+
+[18:28:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:28:33]  ===============================
+
+[18:28:33]   Loaded.
+[18:28:33]  Loading plugin: mysql_debian.so
+[18:28:33] 
+
+  > MySQL plugin R6 successfully loaded.
+
+[18:28:33]   Loaded.
+[18:28:33]  Loading plugin: streamer.so
+[18:28:33] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[18:28:33]   Loaded.
+[18:28:33]  Loading plugin: audio.so
+[18:28:33] 
+
+*** Audio Plugin v0.5 R2 by Incognito loaded ***
+
+[18:28:33]   Loaded.
+[18:28:33]  Loading plugin: FCNPC.so
+[18:28:33] 
+[18:28:33] -------------------------------------------------
+[18:28:33]      FCNPC - Fully Controllable NPC v0.1 B12
+[18:28:33] 
+[18:28:33] - Author: OrMisicL
+[18:28:33] - Build:  Feb 23 2014 at 15:36:09
+[18:28:33] -------------------------------------------------
+[18:28:33] 
+[18:28:33] Loading ...
+[18:28:33] SAMP Server version 0.3z (Linux) detected. Initializing ...
+[18:28:33] FCNPC Loaded.
+[18:28:33] 
+[18:28:33]   Loaded.
+[18:28:33]  Loading plugin: crashdetect.so
+[18:28:33]   CrashDetect v4.13.1 is OK.
+[18:28:33]   Loaded.
+[18:28:33]  Loaded 6 plugins.
+
+[18:28:33] 
+[18:28:33] Filterscripts
+[18:28:33] ---------------
+[18:28:33]   Loaded 0 filterscripts.
+
+[18:28:33] *** Audio Plugin: Error binding endpoint for acceptor: Address already in use
+[18:28:33]  
+[18:28:33]  
+[18:28:33]  
+[18:28:33]  ======================================= 
+[18:28:33]  |                                     | 
+[18:28:33]  |        YSI version 3.09.0684        | 
+[18:28:33]  |        By Alex "Y_Less" Cole        | 
+[18:28:33]  |                                     | 
+[18:28:33]  ======================================= 
+[18:28:33]  
+[18:28:33] ----------------------------------------------
+[18:28:33]      Po³¹czono z serwerem MySQL poprawnie     
+[18:28:33] ----------------------------------------------
+[18:28:33] [LOAD] Wczytano 3 pojazdy/ów z bazy danych.
+[18:28:33] sscanf warning: String buffer overflow.
+[18:28:33] sscanf warning: String buffer overflow.
+[18:28:33] sscanf warning: String buffer overflow.
+[18:28:33] sscanf warning: String buffer overflow.
+[18:28:33] [LOAD] Wczytano 4 grup z bazy danych.
+[18:28:33] [LOAD] Wczytano 0 przedmiot/ów z bazy danych.
+[18:28:33] [LOAD] Wczytano 3600 stref z bazy danych.
+[18:28:33] [LOAD] Wczytano 4 drzwi z bazy danych.
+[18:28:33] [LOAD] Wczytano 0 obiektów z bazy danych.
+[18:28:33] [LOAD] Wczytano 0 tekstur z bazy danych.
+[18:28:33] [LOAD] Wczytano 0 tekstur z bazy danych.
+[18:28:33] [LOAD] Wczytano 0 przyczepialnych z bazy danych.
+[18:28:33] [LOAD] Wczytano 0 czujnikow z bazy danych.
+[18:28:33] [LOAD] Wczytano 0 przystanków z bazy danych.
+[18:28:33] [LOAD] Wczytano 1 ustawieñ z bazy danych.
+[18:28:33] [LOAD] Wczytano 0 zwlok z bazy danych.
+[18:28:33] [LOAD] Wczytano 0 roslin z bazy danych.
+[18:28:33] ----------------------------------
+[18:28:33] |		Fort Carson RolePlay	|
+[18:28:33] ----------------------------------
+[18:28:33] Number of vehicle models: 3
+[18:28:33]  
+[18:28:33]  ========================================== 
+[18:28:33]  |                                        | 
+[18:28:33]  |  A new version (v<html>
+  ) of YSI is  | 
+[18:28:33]  |            available from:             | 
+[18:28:33]  |                                        | 
+[18:28:33]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[18:28:33]  |                                        | 
+[18:28:33]  ========================================== 
+[18:28:33]  
+[18:28:34] Incoming connection: 89.65.99.197:50072
+[18:28:34] [join] Martin has joined the server (0:89.65.99.197)
+[18:28:37] [LOAD] Zaladowano pomyslnie grupy gracza Martin
+[18:28:37] [LOAD] Wczytano 0 opisów z bazy danych.
+[18:28:37] [LOAD] Zaladowano pomyslnie mieszkania gracza Martin
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[18:30:02] 
+[18:30:02] Server Plugins
+[18:30:02] --------------
+[18:30:02]  Loading plugin: sscanf.so
+[18:30:02] 
+
+[18:30:02]  ===============================
+
+[18:30:02]       sscanf plugin loaded.     
+
+[18:30:02]          Version:  2.8.1        
+
+[18:30:02]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:30:02]  ===============================
+
+[18:30:02]   Loaded.
+[18:30:02]  Loading plugin: mysql_debian.so
+[18:30:02] 
+
+  > MySQL plugin R6 successfully loaded.
+
+[18:30:02]   Loaded.
+[18:30:02]  Loading plugin: streamer.so
+[18:30:02] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[18:30:02]   Loaded.
+[18:30:02]  Loading plugin: audio.so
+[18:30:02] 
+
+*** Audio Plugin v0.5 R2 by Incognito loaded ***
+
+[18:30:02]   Loaded.
+[18:30:02]  Loading plugin: FCNPC.so
+[18:30:02] 
+[18:30:02] -------------------------------------------------
+[18:30:02]      FCNPC - Fully Controllable NPC v0.1 B12
+[18:30:02] 
+[18:30:02] - Author: OrMisicL
+[18:30:02] - Build:  Feb 23 2014 at 15:36:09
+[18:30:02] -------------------------------------------------
+[18:30:02] 
+[18:30:02] Loading ...
+[18:30:02] SAMP Server version 0.3z (Linux) detected. Initializing ...
+[18:30:02] FCNPC Loaded.
+[18:30:02] 
+[18:30:02]   Loaded.
+[18:30:02]  Loading plugin: crashdetect.so
+[18:30:02]   CrashDetect v4.13.1 is OK.
+[18:30:02]   Loaded.
+[18:30:02]  Loaded 6 plugins.
+
+[18:30:02] 
+[18:30:02] Filterscripts
+[18:30:02] ---------------
+[18:30:02]   Loaded 0 filterscripts.
+
+[18:30:02] *** Audio Plugin: Error binding endpoint for acceptor: Address already in use
+[18:30:02]  
+[18:30:02]  
+[18:30:02]  
+[18:30:02]  ======================================= 
+[18:30:02]  |                                     | 
+[18:30:02]  |        YSI version 3.09.0684        | 
+[18:30:02]  |        By Alex "Y_Less" Cole        | 
+[18:30:02]  |                                     | 
+[18:30:02]  ======================================= 
+[18:30:02]  
+[18:30:02] ----------------------------------------------
+[18:30:02]      Po³¹czono z serwerem MySQL poprawnie     
+[18:30:02] ----------------------------------------------
+[18:30:02] [LOAD] Wczytano 3 pojazdy/ów z bazy danych.
+[18:30:02] sscanf warning: String buffer overflow.
+[18:30:02] sscanf warning: String buffer overflow.
+[18:30:02] sscanf warning: String buffer overflow.
+[18:30:02] sscanf warning: String buffer overflow.
+[18:30:02] [LOAD] Wczytano 4 grup z bazy danych.
+[18:30:02] [LOAD] Wczytano 0 przedmiot/ów z bazy danych.
+[18:30:02] [LOAD] Wczytano 3600 stref z bazy danych.
+[18:30:02] [LOAD] Wczytano 4 drzwi z bazy danych.
+[18:30:02] [LOAD] Wczytano 0 obiektów z bazy danych.
+[18:30:02] [LOAD] Wczytano 0 tekstur z bazy danych.
+[18:30:02] [LOAD] Wczytano 0 tekstur z bazy danych.
+[18:30:02] [LOAD] Wczytano 0 przyczepialnych z bazy danych.
+[18:30:02] [LOAD] Wczytano 0 czujnikow z bazy danych.
+[18:30:02] [LOAD] Wczytano 0 przystanków z bazy danych.
+[18:30:02] [LOAD] Wczytano 1 ustawieñ z bazy danych.
+[18:30:02] [LOAD] Wczytano 0 zwlok z bazy danych.
+[18:30:02] [LOAD] Wczytano 0 roslin z bazy danych.
+[18:30:02] ----------------------------------
+[18:30:02] |		Fort Carson RolePlay	|
+[18:30:02] ----------------------------------
+[18:30:02] Number of vehicle models: 3
+[18:30:02]  
+[18:30:02]  ========================================== 
+[18:30:02]  |                                        | 
+[18:30:02]  |  A new version (v<html>
+  ) of YSI is  | 
+[18:30:02]  |            available from:             | 
+[18:30:02]  |                                        | 
+[18:30:02]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[18:30:02]  |                                        | 
+[18:30:02]  ========================================== 
+[18:30:02]  
+[18:30:03] Incoming connection: 89.65.99.197:56572
+[18:30:03] [join] Martin has joined the server (0:89.65.99.197)
+[18:30:05] [LOAD] Zaladowano pomyslnie grupy gracza Martin
+[18:30:05] [LOAD] Wczytano 0 opisów z bazy danych.
+[18:30:05] [LOAD] Zaladowano pomyslnie mieszkania gracza Martin
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[18:30:51] 
+[18:30:51] Server Plugins
+[18:30:51] --------------
+[18:30:51]  Loading plugin: sscanf.so
+[18:30:51] 
+
+[18:30:51]  ===============================
+
+[18:30:51]       sscanf plugin loaded.     
+
+[18:30:51]          Version:  2.8.1        
+
+[18:30:51]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:30:51]  ===============================
+
+[18:30:51]   Loaded.
+[18:30:51]  Loading plugin: mysql_debian.so
+[18:30:51] 
+
+  > MySQL plugin R6 successfully loaded.
+
+[18:30:51]   Loaded.
+[18:30:51]  Loading plugin: streamer.so
+[18:30:51] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[18:30:51]   Loaded.
+[18:30:51]  Loading plugin: audio.so
+[18:30:51] 
+
+*** Audio Plugin v0.5 R2 by Incognito loaded ***
+
+[18:30:51]   Loaded.
+[18:30:51]  Loading plugin: FCNPC.so
+[18:30:51] 
+[18:30:51] -------------------------------------------------
+[18:30:51]      FCNPC - Fully Controllable NPC v0.1 B12
+[18:30:51] 
+[18:30:51] - Author: OrMisicL
+[18:30:51] - Build:  Feb 23 2014 at 15:36:09
+[18:30:51] -------------------------------------------------
+[18:30:51] 
+[18:30:51] Loading ...
+[18:30:51] SAMP Server version 0.3z (Linux) detected. Initializing ...
+[18:30:51] FCNPC Loaded.
+[18:30:51] 
+[18:30:51]   Loaded.
+[18:30:51]  Loading plugin: crashdetect.so
+[18:30:51]   CrashDetect v4.13.1 is OK.
+[18:30:51]   Loaded.
+[18:30:51]  Loaded 6 plugins.
+
+[18:30:51] 
+[18:30:51] Filterscripts
+[18:30:51] ---------------
+[18:30:51]   Loaded 0 filterscripts.
+
+[18:30:51] Incoming connection: 89.65.99.197:55410
+[18:30:51] *** Audio Plugin: Error binding endpoint for acceptor: Address already in use
+[18:30:51]  
+[18:30:51]  
+[18:30:51]  
+[18:30:51]  ======================================= 
+[18:30:51]  |                                     | 
+[18:30:51]  |        YSI version 3.09.0684        | 
+[18:30:51]  |        By Alex "Y_Less" Cole        | 
+[18:30:51]  |                                     | 
+[18:30:51]  ======================================= 
+[18:30:51]  
+[18:30:51] ----------------------------------------------
+[18:30:51]      Po³¹czono z serwerem MySQL poprawnie     
+[18:30:51] ----------------------------------------------
+[18:30:51] [LOAD] Wczytano 3 pojazdy/ów z bazy danych.
+[18:30:51] sscanf warning: String buffer overflow.
+[18:30:51] sscanf warning: String buffer overflow.
+[18:30:51] sscanf warning: String buffer overflow.
+[18:30:51] sscanf warning: String buffer overflow.
+[18:30:51] [LOAD] Wczytano 4 grup z bazy danych.
+[18:30:51] [LOAD] Wczytano 0 przedmiot/ów z bazy danych.
+[18:30:51] [LOAD] Wczytano 3600 stref z bazy danych.
+[18:30:51] [LOAD] Wczytano 4 drzwi z bazy danych.
+[18:30:51] [LOAD] Wczytano 0 obiektów z bazy danych.
+[18:30:51] [LOAD] Wczytano 0 tekstur z bazy danych.
+[18:30:51] [LOAD] Wczytano 0 tekstur z bazy danych.
+[18:30:51] [LOAD] Wczytano 0 przyczepialnych z bazy danych.
+[18:30:51] [LOAD] Wczytano 0 czujnikow z bazy danych.
+[18:30:51] [LOAD] Wczytano 0 przystanków z bazy danych.
+[18:30:51] [LOAD] Wczytano 1 ustawieñ z bazy danych.
+[18:30:51] [LOAD] Wczytano 0 zwlok z bazy danych.
+[18:30:51] [LOAD] Wczytano 0 roslin z bazy danych.
+[18:30:51] ----------------------------------
+[18:30:51] |		Fort Carson RolePlay	|
+[18:30:51] ----------------------------------
+[18:30:51] Number of vehicle models: 3
+[18:30:51]  
+[18:30:51]  ========================================== 
+[18:30:51]  |                                        | 
+[18:30:51]  |  A new version (v<html>
+  ) of YSI is  | 
+[18:30:51]  |            available from:             | 
+[18:30:51]  |                                        | 
+[18:30:51]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[18:30:51]  |                                        | 
+[18:30:51]  ========================================== 
+[18:30:51]  
+[18:30:52] [join] Martin has joined the server (0:89.65.99.197)
+[18:30:54] [LOAD] Zaladowano pomyslnie grupy gracza Martin
+[18:30:54] [LOAD] Wczytano 0 opisów z bazy danych.
+[18:30:54] [LOAD] Zaladowano pomyslnie mieszkania gracza Martin
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[18:33:38] 
+[18:33:38] Server Plugins
+[18:33:38] --------------
+[18:33:38]  Loading plugin: sscanf.so
+[18:33:38] 
+
+[18:33:38]  ===============================
+
+[18:33:38]       sscanf plugin loaded.     
+
+[18:33:38]          Version:  2.8.1        
+
+[18:33:38]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:33:38]  ===============================
+
+[18:33:38]   Loaded.
+[18:33:38]  Loading plugin: mysql_debian.so
+[18:33:38] 
+
+  > MySQL plugin R6 successfully loaded.
+
+[18:33:38]   Loaded.
+[18:33:38]  Loading plugin: streamer.so
+[18:33:38] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[18:33:38]   Loaded.
+[18:33:38]  Loading plugin: audio.so
+[18:33:38] 
+
+*** Audio Plugin v0.5 R2 by Incognito loaded ***
+
+[18:33:38]   Loaded.
+[18:33:38]  Loading plugin: FCNPC.so
+[18:33:38] 
+[18:33:38] -------------------------------------------------
+[18:33:38]      FCNPC - Fully Controllable NPC v0.1 B12
+[18:33:38] 
+[18:33:38] - Author: OrMisicL
+[18:33:38] - Build:  Feb 23 2014 at 15:36:09
+[18:33:38] -------------------------------------------------
+[18:33:38] 
+[18:33:38] Loading ...
+[18:33:38] SAMP Server version 0.3z (Linux) detected. Initializing ...
+[18:33:38] FCNPC Loaded.
+[18:33:38] 
+[18:33:38]   Loaded.
+[18:33:38]  Loading plugin: crashdetect.so
+[18:33:38]   CrashDetect v4.13.1 is OK.
+[18:33:38]   Loaded.
+[18:33:38]  Loaded 6 plugins.
+
+[18:33:38] 
+[18:33:38] Filterscripts
+[18:33:38] ---------------
+[18:33:38]   Loaded 0 filterscripts.
+
+[18:33:38] *** Audio Plugin: Error binding endpoint for acceptor: Address already in use
+[18:33:38]  
+[18:33:38]  
+[18:33:38]  
+[18:33:38]  ======================================= 
+[18:33:38]  |                                     | 
+[18:33:38]  |        YSI version 3.09.0684        | 
+[18:33:38]  |        By Alex "Y_Less" Cole        | 
+[18:33:38]  |                                     | 
+[18:33:38]  ======================================= 
+[18:33:38]  
+[18:33:38] ----------------------------------------------
+[18:33:38]      Po³¹czono z serwerem MySQL poprawnie     
+[18:33:38] ----------------------------------------------
+[18:33:38] [LOAD] Wczytano 3 pojazdy/ów z bazy danych.
+[18:33:38] sscanf warning: String buffer overflow.
+[18:33:38] sscanf warning: String buffer overflow.
+[18:33:38] sscanf warning: String buffer overflow.
+[18:33:38] sscanf warning: String buffer overflow.
+[18:33:38] [LOAD] Wczytano 4 grup z bazy danych.
+[18:33:38] [LOAD] Wczytano 0 przedmiot/ów z bazy danych.
+[18:33:38] [LOAD] Wczytano 3600 stref z bazy danych.
+[18:33:38] [LOAD] Wczytano 4 drzwi z bazy danych.
+[18:33:38] [LOAD] Wczytano 0 obiektów z bazy danych.
+[18:33:38] [LOAD] Wczytano 0 tekstur z bazy danych.
+[18:33:38] [LOAD] Wczytano 0 tekstur z bazy danych.
+[18:33:38] [LOAD] Wczytano 0 przyczepialnych z bazy danych.
+[18:33:38] [LOAD] Wczytano 0 czujnikow z bazy danych.
+[18:33:38] [LOAD] Wczytano 0 przystanków z bazy danych.
+[18:33:38] [LOAD] Wczytano 1 ustawieñ z bazy danych.
+[18:33:38] [LOAD] Wczytano 0 zwlok z bazy danych.
+[18:33:38] [LOAD] Wczytano 0 roslin z bazy danych.
+[18:33:38] ----------------------------------
+[18:33:38] |		Fort Carson RolePlay	|
+[18:33:38] ----------------------------------
+[18:33:38] Number of vehicle models: 3
+[18:33:38]  
+[18:33:38]  ========================================== 
+[18:33:38]  |                                        | 
+[18:33:38]  |  A new version (v<html>
+  ) of YSI is  | 
+[18:33:38]  |            available from:             | 
+[18:33:38]  |                                        | 
+[18:33:38]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[18:33:38]  |                                        | 
+[18:33:38]  ========================================== 
+[18:33:38]  
+[18:33:39] Incoming connection: 89.65.99.197:57974
+[18:33:39] [join] Martin has joined the server (0:89.65.99.197)
+[18:33:42] [LOAD] Zaladowano pomyslnie grupy gracza Martin
+[18:33:42] [LOAD] Wczytano 0 opisów z bazy danych.
+[18:33:42] [LOAD] Zaladowano pomyslnie mieszkania gracza Martin
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[18:35:57] 
+[18:35:57] Server Plugins
+[18:35:57] --------------
+[18:35:57]  Loading plugin: sscanf.so
+[18:35:57] 
+
+[18:35:57]  ===============================
+
+[18:35:57]       sscanf plugin loaded.     
+
+[18:35:57]          Version:  2.8.1        
+
+[18:35:57]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:35:57]  ===============================
+
+[18:35:57]   Loaded.
+[18:35:57]  Loading plugin: mysql_debian.so
+[18:35:57] 
+
+  > MySQL plugin R6 successfully loaded.
+
+[18:35:57]   Loaded.
+[18:35:57]  Loading plugin: streamer.so
+[18:35:57] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[18:35:57]   Loaded.
+[18:35:57]  Loading plugin: audio.so
+[18:35:57] 
+
+*** Audio Plugin v0.5 R2 by Incognito loaded ***
+
+[18:35:57]   Loaded.
+[18:35:57]  Loading plugin: FCNPC.so
+[18:35:57] 
+[18:35:57] -------------------------------------------------
+[18:35:57]      FCNPC - Fully Controllable NPC v0.1 B12
+[18:35:57] 
+[18:35:57] - Author: OrMisicL
+[18:35:57] - Build:  Feb 23 2014 at 15:36:09
+[18:35:57] -------------------------------------------------
+[18:35:57] 
+[18:35:57] Loading ...
+[18:35:57] SAMP Server version 0.3z (Linux) detected. Initializing ...
+[18:35:57] FCNPC Loaded.
+[18:35:57] 
+[18:35:57]   Loaded.
+[18:35:57]  Loading plugin: crashdetect.so
+[18:35:57]   CrashDetect v4.13.1 is OK.
+[18:35:57]   Loaded.
+[18:35:57]  Loaded 6 plugins.
+
+[18:35:57] 
+[18:35:57] Filterscripts
+[18:35:57] ---------------
+[18:35:57]   Loaded 0 filterscripts.
+
+[18:35:57] *** Audio Plugin: Error binding endpoint for acceptor: Address already in use
+[18:35:57]  
+[18:35:57]  
+[18:35:57]  
+[18:35:57]  ======================================= 
+[18:35:57]  |                                     | 
+[18:35:57]  |        YSI version 3.09.0684        | 
+[18:35:57]  |        By Alex "Y_Less" Cole        | 
+[18:35:57]  |                                     | 
+[18:35:57]  ======================================= 
+[18:35:57]  
+[18:35:57] ----------------------------------------------
+[18:35:57]      Po³¹czono z serwerem MySQL poprawnie     
+[18:35:57] ----------------------------------------------
+[18:35:57] [LOAD] Wczytano 3 pojazdy/ów z bazy danych.
+[18:35:57] sscanf warning: String buffer overflow.
+[18:35:57] sscanf warning: String buffer overflow.
+[18:35:57] sscanf warning: String buffer overflow.
+[18:35:57] sscanf warning: String buffer overflow.
+[18:35:57] [LOAD] Wczytano 4 grup z bazy danych.
+[18:35:57] [LOAD] Wczytano 0 przedmiot/ów z bazy danych.
+[18:35:57] [LOAD] Wczytano 3600 stref z bazy danych.
+[18:35:57] [LOAD] Wczytano 4 drzwi z bazy danych.
+[18:35:57] [LOAD] Wczytano 0 obiektów z bazy danych.
+[18:35:57] [LOAD] Wczytano 0 tekstur z bazy danych.
+[18:35:57] [LOAD] Wczytano 0 tekstur z bazy danych.
+[18:35:57] [LOAD] Wczytano 0 przyczepialnych z bazy danych.
+[18:35:57] [LOAD] Wczytano 0 czujnikow z bazy danych.
+[18:35:57] [LOAD] Wczytano 0 przystanków z bazy danych.
+[18:35:57] [LOAD] Wczytano 1 ustawieñ z bazy danych.
+[18:35:57] [LOAD] Wczytano 0 zwlok z bazy danych.
+[18:35:57] [LOAD] Wczytano 0 roslin z bazy danych.
+[18:35:57] ----------------------------------
+[18:35:57] |		Fort Carson RolePlay	|
+[18:35:57] ----------------------------------
+[18:35:57] Number of vehicle models: 3
+[18:35:57]  
+[18:35:57]  ========================================== 
+[18:35:57]  |                                        | 
+[18:35:57]  |  A new version (v<html>
+  ) of YSI is  | 
+[18:35:57]  |            available from:             | 
+[18:35:57]  |                                        | 
+[18:35:57]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[18:35:57]  |                                        | 
+[18:35:57]  ========================================== 
+[18:35:57]  
+[18:35:58] Incoming connection: 89.65.99.197:54300
+[18:35:58] [join] Martin has joined the server (0:89.65.99.197)
+[18:36:02] [LOAD] Zaladowano pomyslnie grupy gracza Martin
+[18:36:02] [LOAD] Wczytano 0 opisów z bazy danych.
+[18:36:02] [LOAD] Zaladowano pomyslnie mieszkania gracza Martin
+[19:00:37] [LOAD] Wczytano 1 ustawieñ z bazy danych.
+[19:07:05] RCON (In-Game): Player #0 (Martin) has logged in.
+[19:07:06] RCON (In-Game): Player [Martin] sent command: gmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[21:28:54] 
+[21:28:54] Server Plugins
+[21:28:54] --------------
+[21:28:54]  Loading plugin: sscanf.so
+[21:28:54] 
+
+[21:28:54]  ===============================
+
+[21:28:54]       sscanf plugin loaded.     
+
+[21:28:54]          Version:  2.8.1        
+
+[21:28:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:28:54]  ===============================
+
+[21:28:54]   Loaded.
+[21:28:54]  Loading plugin: mysql_debian.so
+[21:28:54] 
+
+  > MySQL plugin R6 successfully loaded.
+
+[21:28:54]   Loaded.
+[21:28:54]  Loading plugin: streamer.so
+[21:28:54] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[21:28:54]   Loaded.
+[21:28:54]  Loading plugin: audio.so
+[21:28:54] 
+
+*** Audio Plugin v0.5 R2 by Incognito loaded ***
+
+[21:28:54]   Loaded.
+[21:28:54]  Loading plugin: FCNPC.so
+[21:28:54] 
+[21:28:54] -------------------------------------------------
+[21:28:54]      FCNPC - Fully Controllable NPC v0.1 B12
+[21:28:54] 
+[21:28:54] - Author: OrMisicL
+[21:28:54] - Build:  Feb 23 2014 at 15:36:09
+[21:28:54] -------------------------------------------------
+[21:28:54] 
+[21:28:54] Loading ...
+[21:28:54] SAMP Server version 0.3z (Linux) detected. Initializing ...
+[21:28:54] FCNPC Loaded.
+[21:28:54] 
+[21:28:54]   Loaded.
+[21:28:54]  Loading plugin: crashdetect.so
+[21:28:54]   CrashDetect v4.13.1 is OK.
+[21:28:54]   Loaded.
+[21:28:54]  Loaded 6 plugins.
+
+[21:28:54] 
+[21:28:54] Filterscripts
+[21:28:54] ---------------
+[21:28:54]   Loaded 0 filterscripts.
+
+[21:28:54]  
+[21:28:54]  
+[21:28:54]  
+[21:28:54]  ======================================= 
+[21:28:54]  |                                     | 
+[21:28:54]  |        YSI version 3.09.0684        | 
+[21:28:54]  |        By Alex "Y_Less" Cole        | 
+[21:28:54]  |                                     | 
+[21:28:54]  ======================================= 
+[21:28:54]  
+[21:28:54] *** Audio Plugin: Started TCP server on port 7788
+[21:28:54] ----------------------------------------------
+[21:28:54]      Po³¹czono z serwerem MySQL poprawnie     
+[21:28:54] ----------------------------------------------
+[21:28:54] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:28:54] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:28:54] Setting server password to: "errormessage"
+[21:28:54] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:28:54] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:28:54] Setting server password to: "errormessage"
+[21:28:54] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:28:54] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:28:54] Setting server password to: "errormessage"
+[21:28:54] [LOAD] Wczytano 0 pojazdy/ów z bazy danych.
+[21:28:54] [LOAD] Wczytano 0 grup z bazy danych.
+[21:28:54] [LOAD] Wczytano 0 przedmiot/ów z bazy danych.
+[21:28:54] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:28:54] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:28:54] Setting server password to: "errormessage"
+[21:28:54] [LOAD] Wczytano 0 stref z bazy danych.
+[21:28:54] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:28:54] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:28:54] Setting server password to: "errormessage"
+[21:28:54] [LOAD] Wczytano 0 drzwi z bazy danych.
+[21:28:54] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:28:54] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:28:54] Setting server password to: "errormessage"
+[21:28:54] [LOAD] Wczytano 0 obiektów z bazy danych.
+[21:28:54] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:28:54] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:28:54] Setting server password to: "errormessage"
+[21:28:54] [LOAD] Wczytano 0 tekstur z bazy danych.
+[21:28:54] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:28:54] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:28:54] Setting server password to: "errormessage"
+[21:28:54] [LOAD] Wczytano 0 tekstur z bazy danych.
+[21:28:54] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:28:54] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:28:54] Setting server password to: "errormessage"
+[21:28:54] [LOAD] Wczytano 0 przyczepialnych z bazy danych.
+[21:28:54] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:28:54] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:28:54] Setting server password to: "errormessage"
+[21:28:54] [LOAD] Wczytano 0 czujnikow z bazy danych.
+[21:28:54] [LOAD] Wczytano 0 przystanków z bazy danych.
+[21:28:54] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:28:54] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:28:54] Setting server password to: "errormessage"
+[21:28:54] [LOAD] Wczytano 0 ustawieñ z bazy danych.
+[21:28:54] [LOAD] Wczytano 0 zwlok z bazy danych.
+[21:28:54] [LOAD] Wczytano 0 roslin z bazy danych.
+[21:28:54] ----------------------------------
+[21:28:54] |		multiSantos	|
+[21:28:54] ----------------------------------
+[21:28:54] Number of vehicle models: 0
+[21:28:55]  
+[21:28:55]  ========================================== 
+[21:28:55]  |                                        | 
+[21:28:55]  |  A new version (v<html>
+  ) of YSI is  | 
+[21:28:55]  |            available from:             | 
+[21:28:55]  |                                        | 
+[21:28:55]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[21:28:55]  |                                        | 
+[21:28:55]  ========================================== 
+[21:28:55]  
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[21:29:46] 
+[21:29:46] Server Plugins
+[21:29:46] --------------
+[21:29:46]  Loading plugin: sscanf.so
+[21:29:46] 
+
+[21:29:46]  ===============================
+
+[21:29:46]       sscanf plugin loaded.     
+
+[21:29:46]          Version:  2.8.1        
+
+[21:29:46]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:29:46]  ===============================
+
+[21:29:46]   Loaded.
+[21:29:46]  Loading plugin: mysql_debian.so
+[21:29:46] 
+
+  > MySQL plugin R6 successfully loaded.
+
+[21:29:46]   Loaded.
+[21:29:46]  Loading plugin: streamer.so
+[21:29:46] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[21:29:46]   Loaded.
+[21:29:46]  Loading plugin: audio.so
+[21:29:46] 
+
+*** Audio Plugin v0.5 R2 by Incognito loaded ***
+
+[21:29:46]   Loaded.
+[21:29:46]  Loading plugin: FCNPC.so
+[21:29:46] 
+[21:29:46] -------------------------------------------------
+[21:29:46]      FCNPC - Fully Controllable NPC v0.1 B12
+[21:29:46] 
+[21:29:46] - Author: OrMisicL
+[21:29:46] - Build:  Feb 23 2014 at 15:36:09
+[21:29:46] -------------------------------------------------
+[21:29:46] 
+[21:29:46] Loading ...
+[21:29:46] SAMP Server version 0.3z (Linux) detected. Initializing ...
+[21:29:46] FCNPC Loaded.
+[21:29:46] 
+[21:29:46]   Loaded.
+[21:29:46]  Loading plugin: crashdetect.so
+[21:29:46]   CrashDetect v4.13.1 is OK.
+[21:29:46]   Loaded.
+[21:29:46]  Loaded 6 plugins.
+
+[21:29:46] 
+[21:29:46] Filterscripts
+[21:29:46] ---------------
+[21:29:46]   Loaded 0 filterscripts.
+
+[21:29:46] *** Audio Plugin: Error binding endpoint for acceptor: Address already in use
+[21:29:46]  
+[21:29:46]  
+[21:29:46]  
+[21:29:46]  ======================================= 
+[21:29:46]  |                                     | 
+[21:29:46]  |        YSI version 3.09.0684        | 
+[21:29:46]  |        By Alex "Y_Less" Cole        | 
+[21:29:46]  |                                     | 
+[21:29:46]  ======================================= 
+[21:29:46]  
+[21:29:46] ----------------------------------------------
+[21:29:46]      Po³¹czono z serwerem MySQL poprawnie     
+[21:29:46] ----------------------------------------------
+[21:29:46] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:29:46] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:29:46] Setting server password to: "errormessage"
+[21:29:46] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:29:46] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:29:46] Setting server password to: "errormessage"
+[21:29:46] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:29:46] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:29:46] Setting server password to: "errormessage"
+[21:29:46] [LOAD] Wczytano 5 pojazdy/ów z bazy danych.
+[21:29:46] sscanf warning: String buffer overflow.
+[21:29:46] sscanf warning: String buffer overflow.
+[21:29:46] sscanf warning: String buffer overflow.
+[21:29:46] sscanf warning: String buffer overflow.
+[21:29:46] [LOAD] Wczytano 4 grup z bazy danych.
+[21:29:46] [LOAD] Wczytano 0 przedmiot/ów z bazy danych.
+[21:29:46] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:29:46] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:29:46] Setting server password to: "errormessage"
+[21:29:47] [LOAD] Wczytano 3600 stref z bazy danych.
+[21:29:47] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:29:47] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:29:47] Setting server password to: "errormessage"
+[21:29:47] [LOAD] Wczytano 4 drzwi z bazy danych.
+[21:29:47] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:29:47] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:29:47] Setting server password to: "errormessage"
+[21:29:47] [LOAD] Wczytano 0 obiektów z bazy danych.
+[21:29:47] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:29:47] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:29:47] Setting server password to: "errormessage"
+[21:29:47] [LOAD] Wczytano 0 tekstur z bazy danych.
+[21:29:47] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:29:47] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:29:47] Setting server password to: "errormessage"
+[21:29:47] [LOAD] Wczytano 0 tekstur z bazy danych.
+[21:29:47] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:29:47] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:29:47] Setting server password to: "errormessage"
+[21:29:47] [LOAD] Wczytano 0 przyczepialnych z bazy danych.
+[21:29:47] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:29:47] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:29:47] Setting server password to: "errormessage"
+[21:29:47] [LOAD] Wczytano 0 czujnikow z bazy danych.
+[21:29:47] [LOAD] Wczytano 0 przystanków z bazy danych.
+[21:29:47] [MySQL] Utracono po³¹czenie. Ponawiam...
+[21:29:47] [MySQL] Próba nie powiod³a siê. [Zakoñczono]
+[21:29:47] Setting server password to: "errormessage"
+[21:29:47] [LOAD] Wczytano 1 ustawieñ z bazy danych.
+[21:29:47] [LOAD] Wczytano 0 zwlok z bazy danych.
+[21:29:47] [LOAD] Wczytano 0 roslin z bazy danych.
+[21:29:47] ----------------------------------
+[21:29:47] |		multiSantos	|
+[21:29:47] ----------------------------------
+[21:29:47] Number of vehicle models: 5
+[21:29:47]  
+[21:29:47]  ========================================== 
+[21:29:47]  |                                        | 
+[21:29:47]  |  A new version (v<html>
+  ) of YSI is  | 
+[21:29:47]  |            available from:             | 
+[21:29:47]  |                                        | 
+[21:29:47]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[21:29:47]  |                                        | 
+[21:29:47]  ========================================== 
+[21:29:47]  
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[21:34:49] 
+[21:34:49] Server Plugins
+[21:34:49] --------------
+[21:34:49]  Loading plugin: sscanf.so
+[21:34:49] 
+
+[21:34:49]  ===============================
+
+[21:34:49]       sscanf plugin loaded.     
+
+[21:34:49]          Version:  2.8.1        
+
+[21:34:49]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:34:49]  ===============================
+
+[21:34:49]   Loaded.
+[21:34:49]  Loading plugin: mysql_debian.so
+[21:34:49] 
+
+  > MySQL plugin R6 successfully loaded.
+
+[21:34:49]   Loaded.
+[21:34:49]  Loading plugin: streamer.so
+[21:34:49] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[21:34:49]   Loaded.
+[21:34:49]  Loading plugin: audio.so
+[21:34:49] 
+
+*** Audio Plugin v0.5 R2 by Incognito loaded ***
+
+[21:34:49]   Loaded.
+[21:34:49]  Loading plugin: FCNPC.so
+[21:34:49] 
+[21:34:49] -------------------------------------------------
+[21:34:49]      FCNPC - Fully Controllable NPC v0.1 B12
+[21:34:49] 
+[21:34:49] - Author: OrMisicL
+[21:34:49] - Build:  Feb 23 2014 at 15:36:09
+[21:34:49] -------------------------------------------------
+[21:34:49] 
+[21:34:49] Loading ...
+[21:34:49] SAMP Server version 0.3z (Linux) detected. Initializing ...
+[21:34:49] FCNPC Loaded.
+[21:34:49] 
+[21:34:49]   Loaded.
+[21:34:49]  Loading plugin: crashdetect.so
+[21:34:49]   CrashDetect v4.13.1 is OK.
+[21:34:49]   Loaded.
+[21:34:49]  Loaded 6 plugins.
+
+[21:34:49] 
+[21:34:49] Filterscripts
+[21:34:49] ---------------
+[21:34:49]   Loaded 0 filterscripts.
+
+[21:34:49] *** Audio Plugin: Error binding endpoint for acceptor: Address already in use
+[21:34:49]  
+[21:34:49]  
+[21:34:49]  
+[21:34:49]  ======================================= 
+[21:34:49]  |                                     | 
+[21:34:49]  |        YSI version 3.09.0684        | 
+[21:34:49]  |        By Alex "Y_Less" Cole        | 
+[21:34:49]  |                                     | 
+[21:34:49]  ======================================= 
+[21:34:49]  
+[21:34:49] ----------------------------------------------
+[21:34:49]      Po³¹czono z serwerem MySQL poprawnie     
+[21:34:49] ----------------------------------------------
+[21:34:49] [LOAD] Wczytano 5 pojazdy/ów z bazy danych.
+[21:34:49] sscanf warning: String buffer overflow.
+[21:34:49] sscanf warning: String buffer overflow.
+[21:34:49] sscanf warning: String buffer overflow.
+[21:34:49] sscanf warning: String buffer overflow.
+[21:34:49] [LOAD] Wczytano 4 grup z bazy danych.
+[21:34:49] [LOAD] Wczytano 0 przedmiot/ów z bazy danych.
+[21:34:49] [LOAD] Wczytano 3600 stref z bazy danych.
+[21:34:49] [LOAD] Wczytano 4 drzwi z bazy danych.
+[21:34:49] [LOAD] Wczytano 0 obiektów z bazy danych.
+[21:34:49] [LOAD] Wczytano 0 tekstur z bazy danych.
+[21:34:49] [LOAD] Wczytano 0 tekstur z bazy danych.
+[21:34:49] [LOAD] Wczytano 0 przyczepialnych z bazy danych.
+[21:34:49] [LOAD] Wczytano 0 czujnikow z bazy danych.
+[21:34:49] [LOAD] Wczytano 0 przystanków z bazy danych.
+[21:34:49] [LOAD] Wczytano 1 ustawieñ z bazy danych.
+[21:34:49] [LOAD] Wczytano 0 zwlok z bazy danych.
+[21:34:49] [LOAD] Wczytano 0 roslin z bazy danych.
+[21:34:49] ----------------------------------
+[21:34:49] |		multiSantos	|
+[21:34:49] ----------------------------------
+[21:34:49] Number of vehicle models: 5
+[21:34:50]  
+[21:34:50]  ========================================== 
+[21:34:50]  |                                        | 
+[21:34:50]  |  A new version (v<html>
+  ) of YSI is  | 
+[21:34:50]  |            available from:             | 
+[21:34:50]  |                                        | 
+[21:34:50]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[21:34:50]  |                                        | 
+[21:34:50]  ========================================== 
+[21:34:50]  
+[21:35:19] Incoming connection: 89.65.99.197:50934
+[21:35:19] [join] Inter has joined the server (0:89.65.99.197)
+[21:35:58] [part] Inter has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[21:36:34] 
+[21:36:34] Server Plugins
+[21:36:34] --------------
+[21:36:34]  Loading plugin: sscanf.so
+[21:36:34] 
+
+[21:36:34]  ===============================
+
+[21:36:34]       sscanf plugin loaded.     
+
+[21:36:34]          Version:  2.8.1        
+
+[21:36:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:36:34]  ===============================
+
+[21:36:34]   Loaded.
+[21:36:34]  Loading plugin: mysql_debian.so
+[21:36:34] 
+
+  > MySQL plugin R6 successfully loaded.
+
+[21:36:34]   Loaded.
+[21:36:34]  Loading plugin: streamer.so
+[21:36:34] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[21:36:34]   Loaded.
+[21:36:34]  Loading plugin: audio.so
+[21:36:34] 
+
+*** Audio Plugin v0.5 R2 by Incognito loaded ***
+
+[21:36:34]   Loaded.
+[21:36:34]  Loading plugin: FCNPC.so
+[21:36:34] 
+[21:36:34] -------------------------------------------------
+[21:36:34]      FCNPC - Fully Controllable NPC v0.1 B12
+[21:36:34] 
+[21:36:34] - Author: OrMisicL
+[21:36:34] - Build:  Feb 23 2014 at 15:36:09
+[21:36:34] -------------------------------------------------
+[21:36:34] 
+[21:36:34] Loading ...
+[21:36:34] SAMP Server version 0.3z (Linux) detected. Initializing ...
+[21:36:34] FCNPC Loaded.
+[21:36:34] 
+[21:36:34]   Loaded.
+[21:36:34]  Loading plugin: crashdetect.so
+[21:36:34]   CrashDetect v4.13.1 is OK.
+[21:36:34]   Loaded.
+[21:36:34]  Loaded 6 plugins.
+
+[21:36:34] 
+[21:36:34] Filterscripts
+[21:36:34] ---------------
+[21:36:34]   Loaded 0 filterscripts.
+
+[21:36:34] *** Audio Plugin: Error binding endpoint for acceptor: Address already in use
+[21:36:34]  
+[21:36:34]  
+[21:36:34]  
+[21:36:34]  ======================================= 
+[21:36:34]  |                                     | 
+[21:36:34]  |        YSI version 3.09.0684        | 
+[21:36:34]  |        By Alex "Y_Less" Cole        | 
+[21:36:34]  |                                     | 
+[21:36:34]  ======================================= 
+[21:36:34]  
+[21:36:34] ----------------------------------------------
+[21:36:34]      Po³¹czono z serwerem MySQL poprawnie     
+[21:36:34] ----------------------------------------------
+[21:36:34] [LOAD] Wczytano 5 pojazdy/ów z bazy danych.
+[21:36:34] sscanf warning: String buffer overflow.
+[21:36:34] sscanf warning: String buffer overflow.
+[21:36:34] sscanf warning: String buffer overflow.
+[21:36:34] sscanf warning: String buffer overflow.
+[21:36:34] [LOAD] Wczytano 4 grup z bazy danych.
+[21:36:34] [LOAD] Wczytano 0 przedmiot/ów z bazy danych.
+[21:36:35] [LOAD] Wczytano 3600 stref z bazy danych.
+[21:36:35] [LOAD] Wczytano 4 drzwi z bazy danych.
+[21:36:35] [LOAD] Wczytano 0 obiektów z bazy danych.
+[21:36:35] [LOAD] Wczytano 0 tekstur z bazy danych.
+[21:36:35] [LOAD] Wczytano 0 tekstur z bazy danych.
+[21:36:35] [LOAD] Wczytano 0 przyczepialnych z bazy danych.
+[21:36:35] [LOAD] Wczytano 0 czujnikow z bazy danych.
+[21:36:35] [LOAD] Wczytano 0 przystanków z bazy danych.
+[21:36:35] [LOAD] Wczytano 1 ustawieñ z bazy danych.
+[21:36:35] [LOAD] Wczytano 0 zwlok z bazy danych.
+[21:36:35] [LOAD] Wczytano 0 roslin z bazy danych.
+[21:36:35] ----------------------------------
+[21:36:35] |		multiSantos	|
+[21:36:35] ----------------------------------
+[21:36:35] Number of vehicle models: 5
+[21:36:35]  
+[21:36:35]  ========================================== 
+[21:36:35]  |                                        | 
+[21:36:35]  |  A new version (v<html>
+  ) of YSI is  | 
+[21:36:35]  |            available from:             | 
+[21:36:35]  |                                        | 
+[21:36:35]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[21:36:35]  |                                        | 
+[21:36:35]  ========================================== 
+[21:36:35]  
+[21:36:57] Incoming connection: 89.65.99.197:65180
+[21:36:57] [join] GoToDark has joined the server (0:89.65.99.197)
+[21:45:20] [part] GoToDark has left the server (0:2)
+[21:45:41] Incoming connection: 89.65.99.197:51682
+[21:45:42] [join] Martin has joined the server (0:89.65.99.197)
+[21:53:39] [part] Martin has left the server (0:2)
